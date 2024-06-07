@@ -60,7 +60,7 @@ function Home() {
                 </div>
             </div>
             <div className="footer">
-                <p className="paragraph2">Build With Love <span className="github_link">Anupraj</span></p>
+                <p className="paragraph2">Build With Love <span className="github_link">Rohan</span></p>
             </div>
         </>
     )
